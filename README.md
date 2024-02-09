@@ -9,3 +9,5 @@ Display VMs: The program offers the capability to view a list of all available V
 Test-Driven Development (TDD)
 The Virtual Machine Management System has been developed following the Test-Driven Development (TDD) approach, ensuring robustness, reliability, and maintainability of the codebase. Through TDD, comprehensive test suites have been created to validate the functionality of each component of the program. This proactive testing methodology not only guarantees the correctness of the code but also facilitates future enhancements and modifications with confidence.
 
+Usage
+To utilize the Virtual Machine Management System, ensure that Python and PyMongo are installed on your system. Additionally, make sure to have access to a MongoDB server for data storage. Follow the instructions provided in the program documentation to configure the connection to the MongoDB server and execute the desired VM management operations.
